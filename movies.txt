@@ -1,0 +1,3 @@
+movie:bahubali
+release_year:2022
+directed by:Rajamouli
