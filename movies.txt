@@ -1,3 +1,7 @@
 movie:bahubali
 release_year:2022
 directed by:Rajamouli
+
+movie:thudarum
+release_year:2025
+directed by:moorthi
